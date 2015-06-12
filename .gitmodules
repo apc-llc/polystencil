@@ -1,0 +1,3 @@
+[submodule "likwid"]
+	path = likwid
+	url = https://github.com/apc-llc/likwid
